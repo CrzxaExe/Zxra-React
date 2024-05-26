@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6115c923.css",
+    "main.js": "/static/js/main.04d2a67b.js",
+    "static/media/logo.png": "/static/media/logo.932e4fa11d77aa10bc48.png",
+    "static/media/VALORANT-Regular.woff2": "/static/media/VALORANT-Regular.9313dbfe7e6e7381ba9c.woff2",
+    "index.html": "/index.html",
+    "main.6115c923.css.map": "/static/css/main.6115c923.css.map",
+    "main.04d2a67b.js.map": "/static/js/main.04d2a67b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6115c923.css",
+    "static/js/main.04d2a67b.js"
+  ]
+}
